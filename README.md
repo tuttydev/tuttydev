@@ -6,11 +6,11 @@ Hello! I'm Alasi Olatunde, a passionate software developer with a keen interest 
 
 Skills and Technologies
 
-- **Frontend Development:** HTML, CSS, JavaScript, React, Vue.js
+- **Frontend Development:** HTML, CSS, JavaScript, React
 - **Backend Development:** Python, Django, Flask, Node.js, Express
 - **Database Management:** MySQL, PostgreSQL
 - **UI/UX Design:** Figma
-- **Mobile Development:** Kivy, Flutter
+- **Mobile Development:** Kivy
 - **Other Technologies:** Git, Docker, AWS
 
 Projects
