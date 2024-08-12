@@ -21,14 +21,10 @@ A fully functioning purchase order made to automate businesses
 Project 2: Hospital Management System](https://github.com/tuttydev/sheera-fitness-tracker)
 A health device made to help monitor and keep human fit
 
-Project 3: Hair Salon Website](https://github.com/tuttydev/hair-salon-website)
-A responsive single-page website for a hair salon, created with HTML, CSS, and JavaScript, showcasing services, pricing, and contact information.
+Project 3: Hair Salon Website](https://github.com/tuttydev/variety-online-store)
+An automated responsive single-page website for sale of different products, created with HTML, CSS, and JavaScript.
 
-Project 4: Biology Quiz App](https://github.com/tuttydev/biology-quiz-app)
-An interactive quiz application developed with Tkinter, featuring multiple-choice questions, score tracking, and various user-friendly functionalities.
 
-Project 5: Sales App](https://github.com/tuttydev/sales-app)
-A comprehensive sales application built using Flet, designed to manage inventory, track sales, and generate reports.
 
 Get In Touch
 
