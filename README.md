@@ -15,9 +15,8 @@ Skills and Technologies
 
 Projects
 
-Project 1: Comprehensive Ecommerce Website](https://github.com/tuttydev/ecommerce-website)
-A fully functional ecommerce website built with Django, featuring user authentication, product listings, shopping cart, and checkout functionality.
-
+Project 1: https://github.com/tuttydev/purchase-order
+A fully functioning purchase order made to automate business
 Project 2: Hospital Management System](https://github.com/tuttydev/hospital-management-system)
 A Django-based application for managing hospital operations, including patient records, doctor schedules, and appointment bookings.
 
