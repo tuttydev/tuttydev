@@ -16,9 +16,10 @@ Skills and Technologies
 Projects
 
 Project 1: https://github.com/tuttydev/purchase-order
-A fully functioning purchase order made to automate business
-Project 2: Hospital Management System](https://github.com/tuttydev/hospital-management-system)
-A Django-based application for managing hospital operations, including patient records, doctor schedules, and appointment bookings.
+A fully functioning purchase order made to automate businesses
+
+Project 2: Hospital Management System](https://github.com/tuttydev/sheera-business-tracker)
+A health device made to help monitor and keep human fit
 
 Project 3: Hair Salon Website](https://github.com/tuttydev/hair-salon-website)
 A responsive single-page website for a hair salon, created with HTML, CSS, and JavaScript, showcasing services, pricing, and contact information.
