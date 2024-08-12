@@ -18,7 +18,7 @@ Projects
 Project 1: https://github.com/tuttydev/purchase-order
 A fully functioning purchase order made to automate businesses
 
-Project 2: Hospital Management System](https://github.com/tuttydev/sheera-business-tracker)
+Project 2: Hospital Management System](https://github.com/tuttydev/sheera-fitness-tracker)
 A health device made to help monitor and keep human fit
 
 Project 3: Hair Salon Website](https://github.com/tuttydev/hair-salon-website)
