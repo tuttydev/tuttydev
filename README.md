@@ -24,7 +24,7 @@ A health device made to help monitor and keep human fit
 Project 3: https://github.com/tuttydev/variety-online-store
 An automated responsive single-page website for sale of different products, created with HTML, CSS, and JavaScript.
 
-Project 3: https://github.com/tuttydev/ERP-Rep
+Project 3: https://github.com/tuttydev/ERP-Repo
 This system manages inventory, employee data, and provides a framework for future sales and account management.
 
 
