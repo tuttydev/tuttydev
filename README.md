@@ -18,11 +18,14 @@ Projects
 Project 1: https://github.com/tuttydev/purchase-order
 A fully functioning purchase order made to automate businesses
 
-Project 2: Hospital Management System](https://github.com/tuttydev/sheera-fitness-tracker)
+Project 2: https://github.com/tuttydev/sheera-fitness-tracker
 A health device made to help monitor and keep human fit
 
-Project 3: Hair Salon Website](https://github.com/tuttydev/variety-online-store)
+Project 3: https://github.com/tuttydev/variety-online-store
 An automated responsive single-page website for sale of different products, created with HTML, CSS, and JavaScript.
+
+Project 3: https://github.com/tuttydev/ERP-Rep
+This system manages inventory, employee data, and provides a framework for future sales and account management.
 
 
 
