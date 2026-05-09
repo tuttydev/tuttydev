@@ -1,43 +1,90 @@
+
 Welcome to My GitHub Profile! 👋
 
 About Me
 
-Hello! I'm Alasi Olatunde, a passionate software developer with a keen interest in creating dynamic and user-friendly applications. My journey in the tech world is fueled by a love for problem-solving and a constant drive to learn and grow. I specialize in web development, with a strong focus on backend and frontend technologies.
+Hi, I’m Alasi Olatunde — a passionate and results-driven Fullstack Developer dedicated to building modern, scalable, and user-friendly digital solutions.
 
-Skills and Technologies
+I enjoy transforming ideas into functional applications that solve real-world problems. With experience across both frontend and backend development, I focus on creating clean, efficient, and responsive systems that deliver great user experiences.
 
-- **Frontend Development:** HTML, CSS, JavaScript, React
-- **Backend Development:** Python, Django, Flask, Node.js, Express
-- **Database Management:** MySQL, PostgreSQL
-- **UI/UX Design:** Figma
-- **Mobile Development:** Kivy
-- **Other Technologies:** Git, Docker, AWS
+Beyond coding, I’m deeply interested in continuous learning, innovation, and collaborating with teams and businesses to create impactful technology solutions.
 
-Projects
+---
 
-Project 1: https://github.com/tuttydev/purchase-order
-A fully functioning purchase order made to automate businesses
+Technical Skills
 
-Project 2: https://github.com/tuttydev/sheera-fitness-tracker
-A health device made to help monitor and keep human fit
+Frontend Development
 
-Project 3: https://github.com/tuttydev/variety-online-store
-An automated responsive single-page website for sale of different products, created with HTML, CSS, and JavaScript.
+* HTML5
+* CSS3
+* JavaScript
+* React.js
 
-Project 4: https://github.com/tuttydev/ERP-Repo
-This system manages inventory, employee data, and provides a framework for future sales and account management.
+Backend Development
 
+* Python
+* Django
+* Flask
+* Node.js
+* Express.js
 
+Database Management
 
+* MySQL
+* PostgreSQL
 
+UI/UX & Design
 
-Get In Touch
+* Figma
 
-I'm always excited to connect with fellow developers, collaborate on projects, or discuss new ideas. Feel free to reach out to me through any of the following channels:
+Mobile Development
 
+* Kivy
 
- **Email:** alasiolatunde@gmail.com.com
- **website:** https://tuttydev.github.io/sitemi
+Tools & Technologies
 
+* Git & GitHub
+* Docker
+* AWS
 
-Thank you for visiting my profile! Let's build something amazing together.
+---
+
+Featured Project
+
+Purchase Order Management System
+
+🔗 [View Project on GitHub](https://github.com/tuttydev/purchase-order?utm_source=chatgpt.com)
+
+A fully functional purchase order management system designed to help businesses automate and streamline their procurement processes efficiently.
+
+Key Features
+
+* Automated purchase order creation
+* Business workflow optimization
+* User-friendly interface
+* Efficient data management
+* Improved operational productivity
+
+---
+
+What I Bring to the Table
+
+* Strong problem-solving mindset
+* Clean and maintainable code practices
+* Ability to work independently and collaboratively
+* Passion for learning emerging technologies
+* Focus on performance, usability, and scalability
+
+---
+
+Let’s Connect
+
+I’m open to:
+
+* Fullstack development opportunities
+* Freelance projects
+* Remote collaborations
+* Internship and junior developer roles
+* Tech partnerships and innovative projects
+
+Thanks for visiting my profile — feel free to explore my repositories and projects! 🚀
